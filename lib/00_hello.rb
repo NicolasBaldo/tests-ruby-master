@@ -1,4 +1,3 @@
-# lib/greetings.rb
 def hello
     "Hello!"
   end

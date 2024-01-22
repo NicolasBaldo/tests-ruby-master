@@ -19,9 +19,7 @@ def echo(str)
   end
   
 
-  # 04_simon_says.rb
-
-# 04_simon_says.rb
+  
 
 def titleize(str)
     little_words = ["and", "the", "over"]
